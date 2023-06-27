@@ -1,12 +1,3 @@
-<h1 align="center">ChatGPT-Integration</h1>
-
-<br>
-
-<details>
-<summary>Backend Docs<summary>
-
-<br>
-
 <h1 align="center">Integrating ChatGPT with Backend Systems</h1>
 
 <br>
@@ -46,5 +37,3 @@ Note :
 - You can use any of them .
 
 - Before doing anything first create .env file and put your `OPENAI_API_KEY = <Your OpenAI Key>`
-
-</details>
