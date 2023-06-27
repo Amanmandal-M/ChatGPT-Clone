@@ -3,7 +3,7 @@
 <br>
 
 <details>
-<summary>Backend Docs<summary>
+<summary>Backend Docs</summary>
 
 <br>
 
